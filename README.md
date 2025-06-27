@@ -32,6 +32,6 @@ I welcome feedback and contributions, so feel free to check it out and join the 
 
 - Portfolio: [xmdcode.com](https://xmdcode.com)  
 - GitHub: [@xmdcode](https://github.com/xmdcode)  
-- Email: your.email@example.com
+- Email: info@xmdcode.com
 
 _I’m open to freelance work, collaboration, and interesting opportunities—drop a line!_
