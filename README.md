@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**xmdcode/xmdcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a professional front‑end developer specializing in **React**, **Next.js**, **Remix**, **Tailwind**, **TypeScript**, and **Shopify**. I build **high‑performance, scalable web applications** for startups and e‑commerce brands, with a strong emphasis on **architecture**, **clean code**, and **seamless user experience**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I Do
+
+- Craft modern, **fast-loading frontends** that scale as your product grows  
+- Launch **Shopify store frontends** optimized for conversions and speed  
+- Architect maintainable, modular UI systems using industry‑leading tools  
+
+---
+
+## 🌟 Actively Building Portfolio
+
+I’m always on the lookout for **interesting projects**—whether it's a new startup, an e‑commerce site, or app that needs a responsive web interface. **Let’s connect if you have something in mind!**
+
+---
+
+## 🛠️ Open Source Contributions
+
+Contributed to MedusaJS ecosystem with:
+
+- **[medusa-plugin-navigation]** – A plugin for MedusaJS 2.7+ to create basic frontend navigation/menu systems for MedusaJS projects :contentReference[oaicite:1]{index=1}
+
+I welcome feedback and contributions, so feel free to check it out and join the development.
+
+---
+
+## 📫 Get in Touch
+
+- Portfolio: [xmdcode.com](https://xmdcode.com)  
+- GitHub: [@xmdcode](https://github.com/xmdcode)  
+- Email: your.email@example.com
+
+_I’m open to freelance work, collaboration, and interesting opportunities—drop a line!_
